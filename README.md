@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects and initiatives that promote inclusion in technology..
 - 📫 How to reach me "LinkedIn - @rafabmd / GitHub @BenchmarkTi"..
 - 😄 Pronouns: he/him..
-- ⚡ Fun fact: I am passionat about solving complex problems and I always seek to learn something new every day..
+- ⚡ Fun fact: about solving complex problems and I always seek to learn something new every day..
 
 <!---
 BenchmarkTi/BenchmarkTi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
